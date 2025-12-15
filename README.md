@@ -58,3 +58,11 @@ Running the predict file using the result has been created
 ```bash
 python predict.py
 ```
+
+### 3. Reporting
+Receive report result using
+
+```bash
+python report_generator_DL.py
+```
+
