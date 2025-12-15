@@ -35,8 +35,7 @@ Instead of building a simple CNN from scratch, this project leverages **Transfer
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/DanhVinhLe/football_analysis.git](https://github.com/DanhVinhLe/football_analysis.git)
-    cd football_analysis
+    git clone [https://github.com/Kulitipri/CIFAR-10-with-MobileNetV2]
     ```
 
 2.  Install dependencies:
@@ -50,4 +49,4 @@ Instead of building a simple CNN from scratch, this project leverages **Transfer
 To train the model from scratch (including both warm-up and fine-tuning phases):
 
 ```bash
-python train_cifar10.py
+python cifar-10_with_DL.py
