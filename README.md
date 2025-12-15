@@ -50,10 +50,11 @@ To train the model from scratch (including both warm-up and fine-tuning phases):
 
 ```bash
 python cifar-10_with_DL.py
-
+```
 
 ### 2. Train the Model
 Running the predict file using the result has been created
 
 ```bash
 python predict.py
+```
